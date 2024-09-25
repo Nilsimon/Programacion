@@ -14,4 +14,4 @@ print("La division es:", round(var1/var2,2))
 
 print("El exponente es:", var1**var2)
 
-print("El exponente:", var1//var2)
+print("La división entera es:", var1//var2)
