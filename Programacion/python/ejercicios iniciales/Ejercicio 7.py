@@ -11,3 +11,7 @@ print("La resta es:", var1-var2)
 print("El producto es:", var1*var2)
 
 print("La division es:", round(var1/var2,2))
+
+print("El exponente es:", var1**var2)
+
+print("El exponente:", var1//var2)
