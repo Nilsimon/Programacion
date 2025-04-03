@@ -129,3 +129,38 @@ Ejercicio 18. Cines Paradiso celebran su décimo aniversario y por ser un día e
 65. Modifica el programa anterior para mostrar el mayor y el menor número ingresado.
 
 66. Modifica el ejercicio 63 para que en lugar de 100 lanzamientos, realice los lanzamientos durante aproximadamente 3 segundos y muestre los resultados.
+ Realiza un programa que permita introducir una cantidad exacta de números, cada número se irá almacenando en una lista. El programa debe finalizar presentando por pantalla los números ordenados de menor a mayor.
+
+70. Crea un programa que permita introducir x palabras en una lista llamada lista1. Una vez introducidas, crea una nueva lista, llamada lista2, exactamente igual a lista1. Se deben mostrar por pantalla el contenido de lista1 en orden ascendente y lista2 en orden descendente.
+
+71. Haz un programa que permita al usuario introducir letras en una lista (cantidad indefinida). En esta lista no deben almacenarse las letras que se han introducido repetidas.
+
+72. Modifica el programa anterior para que las vocales con o sin acento sean consideradas repetidas y no se almacenen en la lista.
+
+73. Diseña un programa que compruebe si los valores de lista1 (casa, mesa, sal, sol, agua) están repetidos o no en lista2 (casa, luz, tres, tren, sol, pan). Muestra qué palabras se repiten y cuáles no.
+
+74. A partir del programa anterior, haz que se visualicen tanto las palabras que se repiten como las que no de ambas listas.
+
+75. Crea una lista llamada lista1 con los valores: ['a', 'b', 'D', 'x', 'r', 'X', '3', 'h', 'w', '2', 'i']. Presenta por pantalla:
+
+76. A partir de la lista del ejercicio anterior, haz que el programa visualice por un lado las letras y por otro los números, permitiendo escoger orden ascendente o descendente.
+
+77. Repite el ejercicio anterior, asegurando que el orden de las letras sea correcto.
+
+78. Modifica la lista del ejercicio 75 para que el usuario pueda eliminar solo los valores numéricos.
+
+79. Con la variable var1 = "a,b,1,r,sal,34,mar", pásala a una lista y muestra por pantalla la cantidad de valores almacenados. Usa el método apropiado en un máximo de 3 líneas de código.
+
+80. Crea un programa que determine si un número ingresado es decimal o no.
+
+81. A partir de una lista predefinida (['casa', 'barco', 'gato', 'perro', 'madera', 'agua', 'puente', 'pantalón']), muestra un valor aleatorio de la lista.
+
+82. Modifica el programa anterior para que el usuario intente adivinar la palabra escogida al azar. El programa no finaliza hasta que se adivine la palabra.
+
+83. Modifica el ejercicio anterior para permitir múltiples partidas. Se lleva un puntaje según cuántos intentos se requirieron para acertar. Al final, se calcula si el usuario ha tenido "buena suerte" en base a la media de puntuación.
+
+84. A partir de la lista del ejercicio 81, muestra una palabra con sus letras desordenadas. El usuario tiene 3 intentos para adivinar la palabra correcta.
+
+85. Crea un programa que gestione la media y mediana de las calificaciones en tres asignaturas: catalán, inglés y castellano. Una vez ingresados varios registros de alumnos, muestra las medias y medianas de cada materia.
+
+86. Realiza el ejercicio del DNI que se encuentra en el material de apoyo.
