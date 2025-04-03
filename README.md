@@ -65,3 +65,33 @@ Ejercicio 18. Cines Paradiso celebran su décimo aniversario y por ser un día e
 33. Programa un código que permita contar el número de vocales de la siguiente frase: "No hay mal que dure cien años".
 
 34. Corrige los 4 errores o añade el código que necesites para que el siguiente programa se ejecute correctamente.
+
+35. Programa que al introducir un número por teclado permita mostrar ese número de veces tu nombre.
+
+36. Programa que sume los n primeros números naturales. n lo introduce el usuario.
+
+37. Programa que pregunte cuántas notas quiero introducir y para cada nota diga si estoy aprobado o suspendido.
+
+38. A partir del programa anterior, establece los rangos para que el usuario no pueda introducir notas inferiores a 0 y superiores a 10.
+
+39. Programa que pida n números y que, tras introducir el último número, debe aparecer por pantalla el número total de positivos, negativos y número de ceros.
+
+40. Crea un programa que cuente todos los números pares hasta el número 50.
+
+41. Imprime el siguiente patrón utilizando for:
+
+42. Imprime el siguiente patrón utilizando for:
+
+43. Realiza un programa que recorra con un for una palabra introducida por teclado y se imprima por pantalla cada letra con su posición.
+
+44. Realiza un programa que recorra todos los números comprendidos de 0 a 100 realizando saltos de 3 en 3. El resultado debe aparecer por pantalla en una línea con los números separados por ‘,’.
+
+45. Realiza un programa que permita introducir una palabra por teclado y puedas recorrer el string distinguiendo vocales y consonantes.
+
+46. A partir del programa anterior, soluciona el error que se produce al distinguir mayúsculas y minúsculas con una única instrucción.
+
+47. Realiza un programa donde el usuario introduzca por teclado 2 intervalos. Si a < b, la secuencia será incremental; si a > b, la secuencia será en descenso.
+
+48. Realiza un programa en el que se introduzca por teclado una palabra ‘secreta’. El usuario tendrá tantas oportunidades como letras tenga la palabra para adivinar si una letra está en ella.
+
+49. A partir del programa anterior, modifica el código para que al introducir la letra por teclado te indique en qué posición de la palabra se encuentra la letra.
