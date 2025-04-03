@@ -95,3 +95,37 @@ Ejercicio 18. Cines Paradiso celebran su décimo aniversario y por ser un día e
 48. Realiza un programa en el que se introduzca por teclado una palabra ‘secreta’. El usuario tendrá tantas oportunidades como letras tenga la palabra para adivinar si una letra está en ella.
 
 49. A partir del programa anterior, modifica el código para que al introducir la letra por teclado te indique en qué posición de la palabra se encuentra la letra.
+
+50. Realiza un programa que dé los buenos días 3 veces utilizando un bucle while.
+
+51. Modifica el programa anterior para que el usuario introduzca el número de veces que desea que se repita la frase "Buenos días" utilizando while.
+
+52.Realiza un programa que sume dos números enteros ingresados por teclado y muestre el resultado en pantalla. Luego, pregunta si desea repetir la operación (s/n). Usa while.
+
+53. Modifica el programa anterior para que, al finalizar, se muestre la suma total de todas las operaciones y el número de repeticiones. Usa while.
+
+54. Modifica el programa anterior para que el ciclo se repita automáticamente hasta que el total de todas las sumas supere 50. En cada operación, muestra la suma actual y el acumulado. Usa while.
+
+55. Modifica el programa anterior para que se repita mientras el total acumulado sea inferior a 50 o el total acumulado sea par. Usa while.
+
+56. Crea un programa para gestionar un establecimiento de venta de bocadillos. Un pedido consta de bocadillo, acompañamiento y bebida. El dependiente introduce los datos y, al final, se muestra el total con descuentos e IVA. Usa while.
+
+57. Realiza un programa para adivinar un número entre 1 y 5. Controla que el usuario ingrese un número válido.
+
+58. Modifica el programa anterior para que el usuario tenga tres intentos. Usa while.
+
+59. Diseña un programa que genere un número aleatorio entre 0 y 1000 y permita al usuario adivinarlo. En cada intento, indica si el número introducido es mayor o menor. No uses break para salir del bucle.
+
+60. Crea un programa que muestre la tabla de multiplicar de un número introducido, del 1 al 10, utilizando únicamente while.
+
+61. Modifica el programa anterior para que finalice si el valor de la tabla de multiplicar alcanza o supera 40.
+
+62. Escribe un programa que pida dos números y muestre los números pares e impares en ese rango. Usa for. Considera si el primer número es mayor que el segundo.
+
+63. Programa que simula 100 lanzamientos de un dado y muestra cuántas veces aparece cada número.
+
+64. Crea un programa que pida números hasta que el usuario ingrese -99. Luego, muestra estadísticas como total de pares, impares, positivos, negativos, ceros y la suma total de los números introducidos.
+
+65. Modifica el programa anterior para mostrar el mayor y el menor número ingresado.
+
+66. Modifica el ejercicio 63 para que en lugar de 100 lanzamientos, realice los lanzamientos durante aproximadamente 3 segundos y muestre los resultados.
